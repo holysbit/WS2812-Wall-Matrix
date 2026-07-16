@@ -20,3 +20,7 @@ The files:
 - widgets.py:  where all the widgets live, herer they run in a loop for stuff like weather, stocks, time, etc
 - color.py: and simpletime.py: simple glue libraries
 - font.py:   contains the whole 5x7 font, including special custom symbols.
+
+Youll need to put your API keys in a txt file called "secrets" in the format of
+secretName:secretValue
+One per line
