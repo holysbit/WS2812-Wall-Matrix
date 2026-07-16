@@ -24,3 +24,6 @@ The files:
 Youll need to put your API keys in a txt file called "secrets" in the format of
 secretName:secretValue
 One per line
+
+To run:
+sudo nohup python matrixDisplayBoard.py &
